@@ -1,5 +1,5 @@
 # **Bus-Ticket-Booking-System**
-Bus Reservation System is a python based project. We have developed Bus Reservation System using Python GUI Tkinter
+Bus Reservation System is a python based project. We have developed Bus Reservation System using **Python** and **Tkinter GUI**
 
 # **About**
 The main modules available in this project are Bus module which manages the functionality of Bus, Bus Schedule is normally used for managing Bus Schedule, Bus Route contains all the functionality realted to Bus Route, Booking manages the Booking functionality, Customer has all the features of Customer and Seat module manages the functionality of Seat.
